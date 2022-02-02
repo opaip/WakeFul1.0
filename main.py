@@ -15,7 +15,7 @@ import datetime
 import requests
 import time
 import os
-from keep_alive import keep_alive
+
 
 clinet = commands.Bot(command_prefix='dl.')
 
